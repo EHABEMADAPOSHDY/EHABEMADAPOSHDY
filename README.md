@@ -40,4 +40,4 @@
 <p align="left">  
   <a href="https://www.linkedin.com/in/ehab-apo-shady-14899b338" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>  
   <a href="mailto:ehabemadaboshady@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>  
-</p> ده كود ليا في البيت هاب عايزك تضيف رقم تلفون بتاعي واس اي مع الجيميل وبينك اد أن وكمان في الأدوات ضيفapi ahd Dockers and js 
+</p>
