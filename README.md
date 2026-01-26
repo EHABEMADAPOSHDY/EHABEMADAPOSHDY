@@ -1,28 +1,27 @@
 <h1 align="center">Hi 👋, I'm Ehab Abo Shady</h1>
-<h3 align="center">A passionate Full Stack Developer from Egypt 🇪🇬</h3>
+<h3 align="center">Backend Developer (Django & REST APIs) from Egypt 🇪🇬</h3>
 
 <img align="right" alt="Coding" width="350"
 src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif" />
 
-- 🔭 I’m currently working on **Django REST APIs and backend systems**
-- 🌱 I’m currently learning **Advanced Django and System Design**
-- 👯 I’m looking to collaborate on **API-first Django projects**
-- 💬 Ask me about **Python, Django, REST APIs, HTML, CSS, JavaScript, Git**
+- 🔭 I’m currently working on **Backend systems using Django & Django REST Framework**
+- 🌱 I’m currently learning **Advanced Django, APIs, and System Design**
+- 👯 I’m looking to collaborate on **Backend & API-based projects**
+- 💬 Ask me about **Python, Django, REST APIs, Databases, Git**
 - 📫 How to reach me:  
   **📧 ehabemadaboshady@gmail.com**  
   **📱 +20 128 120 7662 (WhatsApp)**
-- ⚡ Fun fact: **I love building smart backend systems with clean and scalable code!**
+- ⚡ Fun fact: **I enjoy building scalable and secure backend systems**
 
 ---
 
-### 🛠️ Languages and Tools:
+### 🛠️ Backend Languages & Tools:
 <p align="left">
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green"/>
-  <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django_REST-ff1709?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Databases-4479A1?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
