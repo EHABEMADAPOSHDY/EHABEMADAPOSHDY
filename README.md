@@ -9,6 +9,8 @@
 
 👯 I’m looking to collaborate on API-first Django projects and Full Stack applications.  
 
+🌍 English Level: B2
+
 💬 Ask me about Python, Django, REST APIs, Docker, Postman, HTML, CSS, JavaScript, Git  
 
 📫 How to reach me: ehabemadaboshady@gmail.com  
