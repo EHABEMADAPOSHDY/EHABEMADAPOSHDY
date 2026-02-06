@@ -3,13 +3,13 @@
 
 <img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif" />
 
-🔭 I’m a skilled Back-End Developer, experienced with Django REST APIs and backend systems. I've also worked as a Freelancer on real-world projects.  
+🔭 I’m a skilled Back-End Developer, experienced with Django REST APIs, Docker, Postman, and backend systems. I've also worked as a Freelancer on real-world projects.  
 
 🌱 I’m currently learning Front-End Development to become a Full Stack Developer, focusing on HTML, CSS, and JavaScript.  
 
 👯 I’m looking to collaborate on API-first Django projects and Full Stack applications.  
 
-💬 Ask me about Python, Django, REST APIs, HTML, CSS, JavaScript, Git  
+💬 Ask me about Python, Django, REST APIs, Docker, Postman, HTML, CSS, JavaScript, Git  
 
 📫 How to reach me: ehabemadaboshady@gmail.com  
 
