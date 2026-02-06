@@ -9,7 +9,7 @@
 
 👯 I’m looking to collaborate on API-first Django projects and Full Stack applications.  
 
-🌍 English Level: B2
+🌍 English Level: B1
 
 💬 Ask me about Python, Django, REST APIs, Docker, Postman, HTML, CSS, JavaScript, Git  
 
